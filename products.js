@@ -8,7 +8,7 @@ const productos = [
     },
     {
         id: 2,
-        nombre: "galletitas", 
+        nombre: "Galletas", 
         precio: 100,
         img:
         "https://imgs.search.brave.com/31PxOmD6UTGq4fYkPJTxwTR0HirQTeWyzG84ARt0Qpo/rs:fit:512:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5t/Y2tmQnJuTzkzTXNl/NGdjUWM3dGRBSGFH/MiZwaWQ9QXBp",
